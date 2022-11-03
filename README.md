@@ -7,7 +7,7 @@
 
 
 
-# This site was built using [GitHub Pages](https://pages.github.com/)
+# Cara Menjalankan (https://#tampilanawal/)
 ```
 git clone https://github.com/renaldy22/fasilitasKantor.git
 cd fasilitaskantor
