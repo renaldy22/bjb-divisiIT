@@ -7,7 +7,7 @@
 
 
 
-# Cara Menjalankan (https://#tampilanawal/)
+# Cara Menjalankan
 ```
 git clone https://github.com/renaldy22/fasilitasKantor.git
 cd fasilitaskantor
