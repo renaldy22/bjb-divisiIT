@@ -1,4 +1,4 @@
-### FASILITASKANTOR
+# FASILITASKANTOR
 
 ## Tampilan Awal 
 
@@ -7,10 +7,14 @@
 
 
 
-# Cara Menjalankan
+## Cara Mengcopy
 ```
 git clone https://github.com/renaldy22/fasilitasKantor.git
 cd fasilitaskantor
 ```
 
-# 
+## Cara Menjalankan
+```
+env\Scripts\activate
+python manage.py runserver 7000
+```
